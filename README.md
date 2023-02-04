@@ -1,8 +1,7 @@
-# Udemy
-
+# Udemy - Clone landing page
 - An assesment given by stutern to replicate the landing page of udemy using `HTML` and `CSS`
 
-  - Live Link :: [Go Live](https://michaelboyo.github.io/udemy-clone/)
+[view page](https://michaelboyo.github.io/udemy-clone/)
 
 ## Author: Boyo Michael Bidemi
 
